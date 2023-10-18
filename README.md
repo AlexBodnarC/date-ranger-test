@@ -1,7 +1,7 @@
 # Date picker
 
 ## Project setup
-git clone
+`git clone`
 `npm i`
 `npm i date-fns`
 `npm start`
